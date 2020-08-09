@@ -8,3 +8,4 @@ var functionMain2 = function(){
 var functionMain3 = function(){
     console.log('doneBaiTapBuoi3');
 }
+console.log('Day la branch buoi3');
