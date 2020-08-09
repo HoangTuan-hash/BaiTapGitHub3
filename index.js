@@ -5,3 +5,4 @@ var functionMain = function(){
 var functionMain2 = function(){
     console.log('doneBaiTapBuoi2');
 }
+console.log('day la branch buoi2');
